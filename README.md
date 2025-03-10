@@ -1,19 +1,29 @@
-# Data Analytics Portfolio
+# Data Analytics Portfolio 🚀  
+Welcome to my **Data Analytics Portfolio!** This repository showcases my projects in **SQL, Python, Excel, and Power BI.**  
 
-This repository contains my **Data Analytics Projects** using:
-- 📌 SQL (Data Cleaning, Joins, Aggregations)
-- 📌 Python (Pandas, NumPy, Matplotlib)
-- 📌 Excel (Pivot Tables, Dashboards)
-- 📌 Power BI (Data Visualization)
+## 📂 Repository Structure  
+This portfolio is organized into different folders based on the type of project:  
+- 📁 **SQL_Projects/** → SQL queries & case studies  
+- 📁 **Python_Projects/** → Python scripts & Jupyter Notebooks  
+- 📁 **Excel_Projects/** → Excel dashboards & data analysis  
+- 📁 **PowerBI_Projects/** → Power BI reports & dashboards  
+- 📁 **Datasets/** → Raw datasets used in projects  
 
-## 📂 Repository Structure:
-- **SQL_Projects** → SQL Scripts and Queries
-- **Python_Projects** → Python scripts for data analysis
-- **Excel_Projects** → Excel-based analytics projects
-- **PowerBI_Projects** → Power BI dashboards and reports
-- **Datasets** → Raw datasets for analysis
+## 📊 Featured Projects  
+### 1️⃣ **Customer Purchase Analysis (SQL)**  
+- Uses SQL queries to analyze customer purchase behavior.  
+- **[View the SQL Code](./SQL_Projects/customer_analysis.sql)**  
 
-## 📊 Featured Projects:
-1. **Customer Analysis (SQL)**
-2. **Sales Data Analysis (Excel)**
-3. **Data Cleaning with Python (Pandas)**
+### 2️⃣ **Sales Data Analysis (Excel)**  
+- Interactive dashboard for sales performance.  
+- **[View the Excel File](./Excel_Projects/Sales_Analysis.xlsx)**  
+
+### 3️⃣ **Revenue Forecasting (Python & Machine Learning)**  
+- Predicts future revenue using Python ML models.  
+- **[View the Jupyter Notebook](./Python_Projects/Revenue_Forecasting.ipynb)**  
+
+## 🌟 Connect with Me  
+- **GitHub:** [github.com/vikas74-cell](https://github.com/vikas74-cell)  
+- **LinkedIn:** [linkedin.com/in/vikas-jha-669b04347](https://in.linkedin.com/in/vikas-jha-669b04347)  
+
+🚀 **Stay tuned for more projects!**  
